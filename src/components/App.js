@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-      <html>Now I can render any React component on any DOM node I want using ReactDOM.render</html>
+      <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
   );
 }
 
